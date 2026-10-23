@@ -2,7 +2,7 @@
 # 📸 Instagram Clone — Flask & MySQL
 
 <p align="center">
-  <img src="docs/images/instagram-banner.png" alt="Instagram Clone Project Banner" width="100%">
+  <img src="docs/images/banner.png" alt="Instagram Clone Project Banner" width="100%">
 </p>
 
 <p align="center">
